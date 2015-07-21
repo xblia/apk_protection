@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android protection demo intel@cats</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">worldandyou@163.com</string>
+    <string name="btn_str_calc">Calc</string>
+</resources>
